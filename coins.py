@@ -1,7 +1,7 @@
 parameters = {
 
     "community-link":
-        "http://aminoapps.com/invite/Y9QWIXKZBT"}
+        "http://aminoapps.com/invite/F51YRR9TTD"}
 
 import os
 import time
